@@ -1,0 +1,9 @@
+{
+  "name": "dating-app-package",
+  "description": "Feature for a dating app",
+  "version": "1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AsaMarjew/Dating-app/package.json"
+   }
