@@ -1,9 +1,19 @@
 {
-  "name": "dating-app-package",
-  "description": "Feature for a dating app",
-  "version": "1.0.0"
+  "name": "datingappfeature",
+  "version": "1.0.0",
+  "description": "datingappfeature",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/AsaMarjew/Dating-app/package.json"
-   }
+    "url": "git+https://github.com/AsaMarjew/Dating-app.git"
+  },
+  "author": "Asa Marjew",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AsaMarjew/Dating-app/issues"
+  },
+  "homepage": "https://github.com/AsaMarjew/Dating-app#readme"
+}
