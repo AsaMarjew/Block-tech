@@ -5,7 +5,7 @@ html {
 
 nav{
     display: flex;
-    border: 1px solid;
+    border-bottom: 1px solid;
 }
 
 nav > h1 {
@@ -18,6 +18,34 @@ nav > ul {
 }
 
 nav > ul > li {
-    list-style-type: none;
+    list-style: none;
     padding: 0px 5px 0px 5px;
+}
+
+/* main - contacts */
+
+
+
+#contacts > ul {
+    list-style: none;
+    padding: 0px;
+}
+
+
+img {
+    width: 35px;
+    border: 1px solid;
+    border-radius: 100%;
+    background-color: white;
+    padding: 0px 6px;
+}
+
+.notification {
+    background-color: #EE7723;
+    color: white;
+    font-size: 11px;
+    width: 15px;
+    padding: 5px;
+    border-radius: 100%;
+    text-align: center;
 }
