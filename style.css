@@ -1,0 +1,23 @@
+html {
+    background-color: #f0f1f5;
+    font-family: "Europa", Helvetica, sans-serif;
+}
+
+nav{
+    display: flex;
+    border: 1px solid;
+}
+
+nav > h1 {
+    flex-grow: 3;
+}
+
+nav > ul {
+    justify-content: flex-end;
+    display: flex;
+}
+
+nav > ul > li {
+    list-style-type: none;
+    padding: 0px 5px 0px 5px;
+}
